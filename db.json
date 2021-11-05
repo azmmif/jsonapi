@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Muhammad Azmi Fauzi",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "mamat",
+      "role": "adm0n",
+      "email": "mamat@mm",
+      "id": 2
+    }
+  ]
+}
